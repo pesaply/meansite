@@ -18,7 +18,7 @@
     "postinstall": "node node_modules/bower/bin/bower install"
   },
   "dependencies": {
-    "express": "~3.4.7",
+    "express": "~4.19.2",
     "jade": "~1.0.2",
     "consolidate": "~0.10.0",
     "mongoose": "~3.8.3",
@@ -35,7 +35,7 @@
     "lodash": "~2.4.1",
     "view-helpers": "~0.1.4",
     "mean-logger": "0.0.1",
-    "bower": "~1.2.8",
+    "bower": "~1.8.9",
     "grunt": "~0.4.2",
     "grunt-cli": "~0.1.11",
     "grunt-env": "~0.4.1",
